@@ -1,0 +1,11 @@
+#pragma once
+#include <windows.h>
+#include <winternl.h>
+#include <iostream>
+#include <string>
+#include <Tlhelp32.h>
+#include "CUESDK.h"
+#include <vector>
+#include <algorithm>
+#include <atomic>
+#include <thread>

@@ -63,3 +63,5 @@
 #*.RTF   diff=astextplain
 ###############################################################################
 
+$ cat .gitattributes
+*.rb linguist-language=cpp

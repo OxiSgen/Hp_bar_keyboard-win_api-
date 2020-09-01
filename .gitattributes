@@ -63,5 +63,5 @@
 #*.RTF   diff=astextplain
 ###############################################################################
 
-$ cat .gitattributes
-*.rb linguist-language=cpp
+* linguist-vendored
+*.cpp linguist-vendored=false

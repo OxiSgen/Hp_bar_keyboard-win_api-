@@ -1,2 +1,2 @@
-# Hp_keyboard
-https://vk.com/video157420208_456239164
+HP-bar on keyboard backlight
+![](https://vk.com/video157420208_456239164)

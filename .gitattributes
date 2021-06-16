@@ -63,5 +63,3 @@
 #*.RTF   diff=astextplain
 ###############################################################################
 
-* linguist-vendored
-*.cpp linguist-vendored=false
